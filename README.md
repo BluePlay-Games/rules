@@ -11,6 +11,7 @@
   - If you don't know how to use those tools, here is a basic tutorial for each. First, clone the repository. Go to GitHub
     and click the green code button. You should see this:
      ![image](READMEmedia/codebutton.png)
+
     Copy the HTTPS link and then move on to the next step.
   - For GitHub Desktop, click File > Clone Repository and paste the HTTPS link to get a local copy of the repository on your machine. Next, use an IDE or text editor, (we suggest using Visual Studio Code) to edit the code. Use repository > push to push your commits to the GitHub repository. It should show up in GitHub after 20 seconds and a refresh. Use repository > pull to update your local copy of the repository when someone does a commit. (Please remember, though, that at Bluecube, instead of using "repository > push", we require you to fork the repository, use "repository > push" on the forked repository, and then make a GitHub pull request with that fork!)
 
